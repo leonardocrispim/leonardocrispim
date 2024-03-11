@@ -2,17 +2,15 @@
 
 Meu nome é Leonardo Crispim e sou um profissional dedicado ao desenvolvimento web, com uma vasta experiência e habilidades abrangentes em várias tecnologias. Com mais de 16 anos de experiência na área, atuei tanto como analista de sistemas quanto como desenvolvedor sênior, obtendo um profundo conhecimento em diversas linguagens e frameworks.
 
-<div style="display: flex; background-color: white;">
+<div style="display: flex; background-color: #fff; margin:0 0 20px 0;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2022.svg" alt="TypeScript" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="width: 70px; margin-right: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="jQuery" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" style="width: 70px; margin-right: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Prisma_%28software%29_logo.svg" alt="Prisma.js" style="width: 70px; margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" style="width: 70px; margin-right: 5px;"/>
 </div>
 
