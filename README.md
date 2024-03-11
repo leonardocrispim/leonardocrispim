@@ -1,6 +1,19 @@
 # Leonardo Crispim
 
-Meu nome é Leonardo Crispim e sou um profissional dedicado ao desenvolvimento web, com uma vasta experiência e habilidades abrangentes em várias tecnologias. Com mais de 16 anos de experiência na área, atuei tanto como analista de sistemas quanto como desenvolvedor sênior, obtendo um profundo conhecimento em diversas linguagens e frameworks.
+Meu nome é Leonardo Crispim e sou um profissional dedicado ao desenvolvimento web, com uma vasta experiência e habilidades abrangentes em várias tecnologias. Com mais de 16 anos de experiência na área, atuei tanto como analista de sistemas quanto como desenvolvedor, obtendo um profundo conhecimento em diversas linguagens e frameworks, incluindo Node.js, TypeScript, React, React Native, PHP, HTML, CSS, jQuery, Next.js, Prisma.js e Express.js, entre outras.
+
+
+
+
+Além das minhas competências técnicas, tenho um interesse especial em design de interfaces (UI) e experiência do usuário (UX), e possuo habilidades avançadas em ferramentas como Photoshop para edição de imagens, InDesign para diagramação, e Adobe Audition para edição de áudio. Possuo também conhecimento básico em vetores utilizando CorelDRAW e Adobe Illustrator.
+
+Sou autodidata e tenho facilidade em utilizar e aprender qualquer linguagem de programação, o que me permite estender minha atuação para além das linguagens mencionadas.
+
+Meu conhecimento se estende além do desenvolvimento web, abrangendo também estratégias avançadas de marketing digital. Sou proficiente em campanhas de Google Ads e Facebook Ads, buscando sempre otimizar os resultados e maximizar o retorno sobre o investimento.
+
+Estou sempre em busca de desafios para aplicar minhas habilidades e conhecimentos, contribuindo de forma significativa para o sucesso de projetos e equipes.
+
+<br />
 
 <div style="display: flex;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="vhTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
@@ -14,13 +27,3 @@ Meu nome é Leonardo Crispim e sou um profissional dedicado ao desenvolvimento w
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/799503599b0e9be9004151a293e5ff746e1859c406586bfe3a0bd6b4bb889373/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72"><img align="center" alt="vhfigma" height="35" width="40" src="https://camo.githubusercontent.com/799503599b0e9be9004151a293e5ff746e1859c406586bfe3a0bd6b4bb889373/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" data-canonical-src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&amp;color=currentColor" style="max-width: 100%;"></a>
  
 </div>
-
-<br />
-
-Além das minhas competências técnicas, tenho um interesse especial em design de interfaces (UI) e experiência do usuário (UX), e possuo habilidades avançadas em ferramentas como Photoshop para edição de imagens, InDesign para diagramação, e Adobe Audition para edição de áudio. Possuo também conhecimento básico em vetores utilizando CorelDRAW e Adobe Illustrator.
-
-Sou autodidata e tenho facilidade em utilizar e aprender qualquer linguagem de programação, o que me permite estender minha atuação para além das linguagens mencionadas.
-
-Meu conhecimento se estende além do desenvolvimento web, abrangendo também estratégias avançadas de marketing digital. Sou proficiente em campanhas de Google Ads e Facebook Ads, buscando sempre otimizar os resultados e maximizar o retorno sobre o investimento.
-
-Estou sempre em busca de desafios para aplicar minhas habilidades e conhecimentos, contribuindo de forma significativa para o sucesso de projetos e equipes.
